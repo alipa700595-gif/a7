@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Velvet Tote Beam | Haute Maroquinerie, Handcrafted Velvet &amp; Bespoke Luxury Totes</title>
+  <meta name="description" content="Velvet Tote Beam is an artisanal luxury maison dedicated to handcrafted silk velvet silhouettes, full-grain Italian calfskin totes, bespoke leathercraft, and timeless heirloom accessories.">
+  <link rel="canonical" href="https://velvettotebeam.com/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0LY0HY7L01');
+</script>
+</head>
+<body>
+
+  <!-- Extra-Wide Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.php" class="brand-logo">
+        Velvet <span>Tote</span> Beam
+      </a>
+      <nav class="main-nav">
+        <a href="index.php" class="nav-link active">Home</a>
+        <a href="#atelier" class="nav-link">Atelier</a>
+        <a href="#silhouettes" class="nav-link">Silhouettes</a>
+        <a href="#craftsmanship" class="nav-link">Craftsmanship</a>
+        <a href="#provenance" class="nav-link">Provenance</a>
+        <a href="blog.html" class="nav-link">Journal</a>
+        <a href="about.html" class="nav-link">Maison</a>
+        <a href="contact.html" class="nav-link">Concierge</a>
+      </nav>
+      <div class="nav-actions">
+        <a href="contact.html" class="btn btn-accent btn-header">Bespoke Inquiry</a>
+        <button class="mobile-toggle" aria-label="Toggle navigation">&#9776;</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 1. Hero Section -->
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-grid">
+        <div class="hero-content">
+          <span class="section-subtitle text-gold">Haute Maroquinerie &bull; Bespoke Silhouettes</span>
+          <h1>The Poetry of Silk Velvet and Sculpted Leather</h1>
+          <p>Velvet Tote Beam unites the tactile opulence of woven Italian silk velvet with the architectural permanence of hand-burnished vegetable-tanned calfskin. Each heirloom tote is meticulously engineered by master artisans to endure generations of refined elegance.</p>
+          <div class="hero-btns">
+            <a href="#silhouettes" class="btn btn-accent">Explore Silhouettes</a>
+            <a href="#craftsmanship" class="btn btn-outline-gold">Atelier Mastery</a>
+          </div>
+        </div>
+        <div class="hero-img-wrap">
+          <div class="hero-img-frame">
+            <img src="images/hero-luxury-velvet-leather-tote-atelier.jpg" alt="Artisan handcrafting a luxury bespoke tote bag in a fine leather atelier">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Heritage Pillars Section -->
+  <section class="section-padding bg-white" id="atelier">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Our Guiding Pillars</span>
+        <h2>The Core Pillars of Maison Velvet Tote Beam</h2>
+        <p>In an era dominated by transient industrial fast fashion, our maison stands as a steadfast sanctuary for timeless artisanal integrity, tactile luxury, and structural perfection.</p>
+      </div>
+      <div class="grid-3">
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/artisan-leather-stitching-handcrafted-bag.jpg" alt="Master artisan hand-stitching luxury tote with linen thread">
+            <span class="card-badge">Tradition</span>
+          </div>
+          <div class="card-body">
+            <h3>Saddle-Stitched by Hand</h3>
+            <p>Every structural seam is executed using the two-needle saddle stitch technique, creating an indestructible bond that machine lockstitching can never emulate.</p>
+            <a href="#craftsmanship" class="card-footer-link">Discover The Technique &rarr;</a>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/full-grain-calfskin-leather-swatches-atelier.jpg" alt="Swatches of full grain Italian calfskin and silk velvet">
+            <span class="card-badge">Provenance</span>
+          </div>
+          <div class="card-body">
+            <h3>Noble Materiality</h3>
+            <p>We source certified French and Tuscan full-grain box calfskin paired with custom-woven Venetian silk velvet possessing peerless pile depth and luminous luster.</p>
+            <a href="#provenance" class="card-footer-link">Explore Provenance &rarr;</a>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/gilded-brass-hardware-luxury-bag-close-up.jpg" alt="Close-up of solid brass gilded hardware on luxury tote">
+            <span class="card-badge">Jewelry</span>
+          </div>
+          <div class="card-body">
+            <h3>Solid Gilded Brass</h3>
+            <p>Our custom closures, bag feet, and buckles are precision-milled from solid architectural brass and plated in 24-karat pale champagne gold.</p>
+            <a href="#hardware" class="card-footer-link">Examine Hardware &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Interactive Silhouette Matrix (Tabs) -->
+  <section class="section-padding bg-light" id="silhouettes">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Curated Silhouettes</span>
+        <h2>The Permanent Collection Matrix</h2>
+        <p>Explore our signature architectural tote silhouettes designed for cosmopolitan living, international travel, and formal evening galas.</p>
+      </div>
+      <div class="matrix-tabs">
+        <button class="tab-btn active" data-tab="grand-tote">Grand Day Totes</button>
+        <button class="tab-btn" data-tab="evening-velvet">Evening Silhouettes</button>
+        <button class="tab-btn" data-tab="travel-cabin">Voyage &amp; Weekender</button>
+      </div>
+
+      <div class="tab-content active grid-3" id="grand-tote">
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/emerald-velvet-structured-handbag-detail.jpg" alt="Emerald green structured velvet and leather tote">
+            <span class="card-badge">Signature</span>
+          </div>
+          <div class="card-body">
+            <h3>The Sovereign Emerald 38</h3>
+            <p>Our flagship structured day tote combining deep forest silk velvet panels with full-grain equestrian calfskin handles and padded laptop partition.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/haute-couture-tote-runway-styling.jpg" alt="Haute couture tote bag styled on high fashion model">
+            <span class="card-badge">Haute Couture</span>
+          </div>
+          <div class="card-body">
+            <h3>The Nocturne Noir 35</h3>
+            <p>A minimalist architectural silhouette rendered in midnight velvet and hand-burnished black box calfskin with invisible magnetic closure.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/elegant-model-carrying-structured-tote.jpg" alt="Model carrying structured luxury leather and velvet tote">
+            <span class="card-badge">Architectural</span>
+          </div>
+          <div class="card-body">
+            <h3>The Palazzo Travertine 40</h3>
+            <p>Constructed with dual-gusset expandable chambers and reinforced base arches designed for effortless daily elegance in the city.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content grid-3" id="evening-velvet">
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/burgundy-velvet-evening-clutch-minimalist.jpg" alt="Burgundy velvet evening clutch with gold chain">
+            <span class="card-badge">Evening</span>
+          </div>
+          <div class="card-body">
+            <h3>The Opera Minaudi&egrave;re</h3>
+            <p>Sculpted silk velvet evening tote with detachable serpentine gilded chain and hand-lacquered horn closure.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/quilted-velvet-designer-crossbody-bag.jpg" alt="Quilted velvet designer handbag with champagne hardware">
+            <span class="card-badge">Gala</span>
+          </div>
+          <div class="card-body">
+            <h3>The Lumina Velvet Pouchette</h3>
+            <p>Diamond-quilted micro-velvet exterior lined in supple glove-tanned French lambskin with hidden card slips.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/archival-luxury-leather-accessories-flatlay.jpg" alt="Curated luxury leather and velvet small accessories">
+            <span class="card-badge">Accessories</span>
+          </div>
+          <div class="card-body">
+            <h3>The Venetian Card Folio</h3>
+            <p>Artisanal velvet and calfskin small leather goods handcrafted using heirloom edge-creasing irons.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content grid-3" id="travel-cabin">
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/bespoke-monogrammed-tote-travel-setting.jpg" alt="Bespoke monogrammed travel tote resting in luxury lounge">
+            <span class="card-badge">Voyage</span>
+          </div>
+          <div class="card-body">
+            <h3>The Grand Transatlantic 48</h3>
+            <p>Heavyweight water-resistant treated velvet paired with saddle-leather corner guards, key clochette, and padlock.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/luxury-designer-tote-street-editorial.jpg" alt="Street editorial shot of luxury travel tote bag">
+            <span class="card-badge">Editorial</span>
+          </div>
+          <div class="card-body">
+            <h3>The Mercer Duffle Tote</h3>
+            <p>Engineered for seamless overhead cabin storage with double-reinforced rolled handles and luggage trolley sleeve.</p>
+            <span class="card-footer-link">Bespoke Custom Order</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/vintage-leather-workshop-tools-craft.jpg" alt="Leather workshop crafting tools on artisan work bench">
+            <span class="card-badge">Custom</span>
+          </div>
+          <div class="card-body">
+            <h3>The Bespoke Atelier Commission</h3>
+            <p>Fully tailored dimensional specifications, custom dyed velvets, and personalized hand-debossed gilded monograms.</p>
+            <span class="card-footer-link">Inquire with Atelier</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Craftsmanship Deep Dive -->
+  <section class="section-padding bg-white" id="craftsmanship">
+    <div class="container">
+      <div class="grid-2">
+        <div>
+          <span class="section-subtitle">Artisanal Mastery</span>
+          <h2>The Anatomy of 48 Hours of Hand Craftsmanship</h2>
+          <p>Every single tote produced in our atelier undergoes a rigorous 14-step creation process requiring over forty-eight hours of concentrated manual labor by an experienced master artisan.</p>
+          <p>From hand-skiving leather edges to 0.4mm tolerances to boiling organic French beeswax for thread coating, we refuse all industrial shortcuts. The result is a bag that does not merely age, but matures with rich, distinguished character.</p>
+          <div class="haute-callout">
+            <p><strong>The Hand-Burnished Edge:</strong> While mass-market bags use synthetic plastic edge paint that cracks after a single season, our artisans hand-apply seven successive coats of natural edge dye, sanding and heating with hot iron creasers between each layer.</p>
+          </div>
+        </div>
+        <div>
+          <img src="images/artisan-cutting-fine-italian-leather.jpg" alt="Artisan cutting fine Italian leather with precision brass template" style="border-radius:4px; box-shadow:var(--shadow-lg);">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. Material Provenance Showcase -->
+  <section class="section-padding bg-emerald-soft" id="provenance">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Noble Provenance</span>
+        <h2>Sourced from Historic European Tanners &amp; Mills</h2>
+        <p>The soul of a luxury bag resides in the authenticity and ethical integrity of its raw materials.</p>
+      </div>
+      <div class="grid-3">
+        <div class="luxury-card">
+          <div class="card-body">
+            <h3>Venetian Silk Velvet</h3>
+            <p>Woven on historic wooden Jacquard looms in northern Italy, our custom velvet features a 100% natural silk pile that reflects ambient light with unmatched liquid depth.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <h3>Tuscan Vegetable-Tanned Hide</h3>
+            <p>Tanned exclusively with natural chestnut and mimosa bark extracts in Santa Croce sull'Arno, free from heavy metals and toxic chromium salts.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <h3>French Box Calfskin</h3>
+            <p>Sourced from historic alpine tanneries, offering a tight, fine pore structure that yields exceptional tensile durability and silky hand-feel.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. Comparative Material Science Table -->
+  <section class="section-padding bg-white">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Material Integrity</span>
+        <h2>Haute Maroquinerie vs. Industrial Mass Luxury</h2>
+        <p>A transparent comparative breakdown of our heirloom construction methods versus commercial designer brands.</p>
+      </div>
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Craftsmanship Dimension</th>
+            <th>Maison Velvet Tote Beam</th>
+            <th>Commercial Designer Bags</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Stitching Technique</strong></td>
+            <td>100% Hand-Saddle-Stitched with Waxed Linen Thread</td>
+            <td>High-speed automated synthetic machine lockstitch</td>
+          </tr>
+          <tr>
+            <td><strong>Leather Grade</strong></td>
+            <td>Uncorrected Full-Grain French &amp; Tuscan Calfskin</td>
+            <td>Corrected-grain or split leather coated in polyurethane</td>
+          </tr>
+          <tr>
+            <td><strong>Velvet Quality</strong></td>
+            <td>Natural Silk Velvet with High Pile Density</td>
+            <td>Synthetic polyester velvet with artificial sheen</td>
+          </tr>
+          <tr>
+            <td><strong>Hardware Metallurgy</strong></td>
+            <td>Solid Architectural Brass with 24k Gold Plating</td>
+            <td>Hollow zamak alloy with electroplated finish</td>
+          </tr>
+          <tr>
+            <td><strong>Edge Finishing</strong></td>
+            <td>7-Layer Hand-Heated &amp; Beeswax-Burnished Edges</td>
+            <td>Quick single-coat synthetic plastic paint (prone to peeling)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 7. Architectural Hardware & Gilded Accents -->
+  <section class="section-padding bg-emerald" id="hardware">
+    <div class="container">
+      <div class="grid-2">
+        <div>
+          <img src="images/gilded-brass-hardware-luxury-bag-close-up.jpg" alt="Architectural brass hardware details on bespoke velvet tote" style="border-radius:4px; border:1px solid var(--color-accent);">
+        </div>
+        <div>
+          <span class="section-subtitle text-gold">Jewelry-Grade Metallurgy</span>
+          <h2 style="color:var(--color-white);">Hardware as Wearable Sculpture</h2>
+          <p style="color:rgba(255,255,255,0.85);">Our hardware is never stamped or cast from cheap zinc alloys. Every D-ring, swivel snap-hook, zipper pull, and protective base stud is CNC-machined from solid brass ingots, hand-polished to a mirror finish, and immersed in 24k champagne gold electro-baths.</p>
+          <p style="color:rgba(255,255,255,0.85);">This ensures smooth mechanical operation, tactile heft, and absolute resistance to corrosion or tarnishing across decades of worldly excursions.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. Bag Care & Archival Preservation Protocol -->
+  <section class="section-padding bg-white">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Preservation</span>
+        <h2>The Connoisseur's Care &amp; Longevity Protocol</h2>
+        <p>Maintain the pristine luster of your velvet and the supple resilience of your leather with our atelier-approved protocols.</p>
+      </div>
+      <div class="grid-4">
+        <div class="luxury-card">
+          <div class="card-body">
+            <h4>1. Velvet Steam Brushing</h4>
+            <p style="font-size:0.9rem;">Gently brush velvet pile using a natural horsehair bristle brush in the direction of the grain to lift dust and restore nap.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <h4>2. Leather Conditioning</h4>
+            <p style="font-size:0.9rem;">Apply micro-doses of neutral organic beeswax balm semi-annually to nourish collagen fibers and prevent micro-cracking.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <h4>3. Archival Acid-Free Stuffing</h4>
+            <p style="font-size:0.9rem;">Store your tote stuffed with acid-free tissue paper to preserve side gussets and base arches when not in active rotation.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <h4>4. Climate &amp; Light Shield</h4>
+            <p style="font-size:0.9rem;">Store within our breathable cotton dust bag in a humidity-controlled space (45-55% RH) away from direct ultraviolet sunlight.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. Bespoke Monogramming & Custom Commissions -->
+  <section class="section-padding bg-light">
+    <div class="container">
+      <div class="grid-2">
+        <div>
+          <span class="section-subtitle">Personalized Legacy</span>
+          <h2>The Bespoke Monogramming Atelier</h2>
+          <p>Elevate your tote into an intimate personal heirloom with our custom foil-stamping and blind-debossing service. Utilizing vintage brass typographic fonts cast in Paris, our master gilders apply 22k gold leaf directly into the leather grain under calibrated heat and pressure.</p>
+          <p>Choose from classic serif initials, family heraldic emblems, or discreet blind debossing on the interior leather signature plaque.</p>
+          <a href="contact.html" class="btn btn-accent">Request Bespoke Consultation</a>
+        </div>
+        <div>
+          <img src="images/bespoke-monogrammed-tote-travel-setting.jpg" alt="Monogrammed luxury leather tote bag resting gracefully" style="border-radius:4px; box-shadow:var(--shadow-md);">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10. Boutiques & International Private Salons -->
+  <section class="section-padding bg-white">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Global Presence</span>
+        <h2>Private Salons &amp; Bespoke Showrooms</h2>
+        <p>Experience our tactile materials and receive personal styling consultations at our private appointment-only salons.</p>
+      </div>
+      <div class="grid-3">
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/luxury-fashion-boutique-display-interior.jpg" alt="Interior of luxury fashion boutique showcase">
+            <span class="card-badge">Flagship</span>
+          </div>
+          <div class="card-body">
+            <h3>New York &bull; Mercer Street</h3>
+            <p>181 Mercer Street, SoHo, NY 10012<br>Private showings by bespoke appointment.<br><strong>Desk:</strong> +1-888-777-5845</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/handcrafted-saddle-stitch-thread-detail.jpg" alt="Artisan hand-stitching luxury bag with golden thread">
+            <span class="card-badge">Atelier</span>
+          </div>
+          <div class="card-body">
+            <h3>Florence &bull; Oltrarno Atelier</h3>
+            <p>Via Maggio, 50125 Firenze, Italy<br>Master workshop, bespoke leather cutting &amp; restoration studio.</p>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-img-wrap">
+            <img src="images/vintage-leather-workshop-tools-craft.jpg" alt="Vintage leathercraft instruments in bespoke showroom">
+            <span class="card-badge">Salon</span>
+          </div>
+          <div class="card-body">
+            <h3>Paris &bull; Rue Saint-Honor&eacute;</h3>
+            <p>75001 Paris, France<br>Seasonal haute couture trunk shows and private collector consultations.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 11. Connoisseur Testimonials -->
+  <section class="section-padding bg-emerald-soft">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Patron Reflections</span>
+        <h2>Words from Discerning Collectors</h2>
+      </div>
+      <div class="grid-3">
+        <div class="luxury-card">
+          <div class="card-body">
+            <p style="font-style:italic; font-size:0.95rem;">"The Sovereign Emerald 38 is the most sublime bag in my collection. The depth of the Italian velvet combined with the indestructible saddle stitching makes it a true masterpiece of wearable art."</p>
+            <h4 style="margin-top:16px; margin-bottom:2px;">Lady Eleanor Vance</h4>
+            <span style="font-size:0.8rem; color:var(--color-accent); text-transform:uppercase;">Art Patron &bull; London</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <p style="font-style:italic; font-size:0.95rem;">"In an era where luxury brands have compromised on materials, Velvet Tote Beam remains uncompromising. The hand-burnished edges and solid brass hardware speak of genuine haute maroquinerie."</p>
+            <h4 style="margin-top:16px; margin-bottom:2px;">Henri de Montmirail</h4>
+            <span style="font-size:0.8rem; color:var(--color-accent); text-transform:uppercase;">Architectural Designer &bull; Geneva</span>
+          </div>
+        </div>
+        <div class="luxury-card">
+          <div class="card-body">
+            <p style="font-style:italic; font-size:0.95rem;">"The bespoke monogramming and custom interior compartment for my fountain pens and sketchbook exceeded all expectations. A magnificent heirloom that travels everywhere with me."</p>
+            <h4 style="margin-top:16px; margin-bottom:2px;">Vivienne Sterling</h4>
+            <span style="font-size:0.8rem; color:var(--color-accent); text-transform:uppercase;">Author &amp; Collector &bull; New York</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12. Frequently Asked Questions -->
+  <section class="section-padding bg-white">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="section-subtitle">Client Inquiries</span>
+        <h2>Frequently Asked Questions</h2>
+      </div>
+      <div class="faq-wrap">
+        <div class="faq-item open">
+          <button class="faq-question">
+            <span>How durable is natural silk velvet for daily tote use?</span>
+            <span class="faq-icon">+</span>
+          </button>
+          <div class="faq-answer">
+            Our custom Venetian velvet is woven with an ultra-dense, short-pile silk blend engineered specifically for high tensile strength and abrasion resistance. When paired with structured calfskin base arches, it withstands daily urban use with effortless resilience.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">
+            <span>What is the lead time for a bespoke custom tote commission?</span>
+            <span class="faq-icon">+</span>
+          </button>
+          <div class="faq-answer">
+            Because each bespoke bag is hand-cut, saddle-stitched, and edge-burnished by a single dedicated artisan, our standard bespoke production timeframe is 6 to 8 weeks from initial leather selection.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">
+            <span>Do you offer lifetime repairs and maintenance?</span>
+            <span class="faq-icon">+</span>
+          </button>
+          <div class="faq-answer">
+            Yes. Every Velvet Tote Beam creation carries our Lifetime Atelier Warranty covering complimentary restitching, hardware replacement, and annual leather conditioning for registered patrons.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 13. VIP Concierge Contact Form -->
+  <section class="section-padding bg-emerald" id="concierge">
+    <div class="container" style="max-width:800px;">
+      <div class="text-center" style="margin-bottom:40px;">
+        <span class="section-subtitle text-gold">Private Concierge</span>
+        <h2 style="color:var(--color-white);">Commission a Bespoke Tote</h2>
+        <p style="color:rgba(255,255,255,0.85);">Schedule a private salon appointment or request leather and velvet swatch books delivered to your residence.</p>
+      </div>
+      <form style="background:var(--color-white); padding:36px; border-radius:4px; box-shadow:var(--shadow-lg);" onsubmit="event.preventDefault(); alert('Thank you. Our private concierge will be in touch within 24 hours.');">
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:20px;">
+          <div>
+            <label style="display:block; font-size:0.85rem; font-weight:600; text-transform:uppercase; margin-bottom:6px; color:var(--color-primary);">Full Name *</label>
+            <input type="text" required style="width:100%; padding:12px; border:1px solid var(--color-border); border-radius:2px; font-family:var(--font-sans);" placeholder="e.g. Lady Vivienne Sterling">
+          </div>
+          <div>
+            <label style="display:block; font-size:0.85rem; font-weight:600; text-transform:uppercase; margin-bottom:6px; color:var(--color-primary);">Email Address *</label>
+            <input type="email" required style="width:100%; padding:12px; border:1px solid var(--color-border); border-radius:2px; font-family:var(--font-sans);" placeholder="concierge@example.com">
+          </div>
+        </div>
+        <div style="margin-bottom:20px;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; text-transform:uppercase; margin-bottom:6px; color:var(--color-primary);">Silhouette of Interest</label>
+          <select style="width:100%; padding:12px; border:1px solid var(--color-border); border-radius:2px; font-family:var(--font-sans);">
+            <option>The Sovereign Emerald 38 (Signature Day Tote)</option>
+            <option>The Nocturne Noir 35 (Minimalist Architecture)</option>
+            <option>The Palazzo Travertine 40 (Dual-Gusset Work Tote)</option>
+            <option>The Grand Transatlantic 48 (Voyage Weekender)</option>
+            <option>Complete Bespoke Atelier Commission</option>
+          </select>
+        </div>
+        <div style="margin-bottom:24px;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; text-transform:uppercase; margin-bottom:6px; color:var(--color-primary);">Bespoke Requirements / Monogram Inscription</label>
+          <textarea rows="4" style="width:100%; padding:12px; border:1px solid var(--color-border); border-radius:2px; font-family:var(--font-sans);" placeholder="Describe desired colorways, monogram initials, or salon appointment preferences..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-accent" style="width:100%; padding:14px;">Submit Bespoke Inquiry</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <a href="index.php" class="brand-logo" style="color:#ffffff; margin-bottom:16px; display:inline-block;">
+            Velvet <span>Tote</span> Beam
+          </a>
+          <p>Velvet Tote Beam is an independent haute maroquinerie maison committed to bespoke silk velvet totes, handcrafted Italian calfskin leathergoods, and generational artisanal permanence.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Maison Navigation</h4>
+          <ul class="footer-links">
+            <li><a href="index.php">Maison Home</a></li>
+            <li><a href="about.html">Atelier History</a></li>
+            <li><a href="blog.html">Maroquinerie Journal</a></li>
+            <li><a href="contact.html">Concierge Inquiries</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Legal &amp; Policies</h4>
+          <ul class="footer-links">
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms-and-conditions.html">Terms &amp; Conditions</a></li>
+            <li><a href="disclaimer.html">Authenticity Disclaimer</a></li>
+            <li><a href="cookie-policy.html">Cookie Preferences</a></li>
+          </ul>
+        </div>
+        <div class="footer-col footer-contact-info">
+          <h4>Global Flagship</h4>
+          <p><strong>Salons:</strong> 181 Mercer Street, New York, NY 10012, United States</p>
+          <p><strong>Concierge:</strong> +1-888-777-5845</p>
+          <p><strong>Inquiries:</strong> concierge@velvettotebeam.com</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; <?php echo date('Y'); ?> Velvet Tote Beam. All rights reserved. Handcrafted with uncompromising luxury.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
